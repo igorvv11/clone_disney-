@@ -10,11 +10,15 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "gulp": "^5.0.0",
+  "devDependencies": {
+    "gulp": "^4.0.2",
     "gulp-imagemin": "^7.1.0",
     "gulp-sass": "^5.1.0",
-    "sass": "^1.75.0"
+    "gulp-uglify": "^3.0.2",
+    "sass": "^1.56.1"
+  },
+  "description": "",
+  "dependencies": {
+    "gul": "^1.0.0"
   }
 }
